@@ -1,4 +1,4 @@
-package com.example.ics372v2_project;
+package animal_shelter_GUI;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

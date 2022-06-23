@@ -8,4 +8,6 @@ module com.example.ics372v2_project {
 
     opens com.example.ics372v2_project to javafx.fxml;
     exports com.example.ics372v2_project;
+    exports animal_shelter_GUI;
+    opens animal_shelter_GUI to javafx.fxml;
 }

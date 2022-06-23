@@ -1,4 +1,4 @@
-package com.example.ics372v2_project;
+package animal_shelter_GUI;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
